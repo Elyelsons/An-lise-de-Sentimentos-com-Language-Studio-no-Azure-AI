@@ -64,14 +64,9 @@ Análise de Sentimentos com Language Studio no Azure AI
 ## 💻 Sobre o Projeto
 #Análise de Sentimentos com Language Studio no Azure AI-DECOLA-TECH-
 
-O que é IA generativa?
-IA: Imita o comportamento humano usando aprendizado de máquina para interagir com o ambiente e executar tarefas sem instruções explícitas sobre o que gerar.
+✅ 1. O que é Análise de Sentimentos no Azure Language Studio?
+A Análise de Sentimentos avalia emoções em textos e retorna scores de positividade, negatividade e neutralidade, além de opiniões por frase. No Azure AI, isso é feito via Azure Cognitive Services – Language, usando o serviço Text Analytics.
 
 
-IA generativa: cria conteúdo original, como IA gerativa que foi incorporada a aplicativos de chat. Os aplicativos de IA gerativa usam entrada em linguagem natural e retornam respostas apropriadas em uma variedade de formatos:
 
-Geração de linguagem natural (onde se pode trazer uma instrução, como melhorar ou criar um texto no chat GPT)
 
-Geração de cógido (ajuda na automação e processo de aprendizado)
-
-Geração de imagem (impagens pixar ou de persona através de instruções passadas para a IA)
