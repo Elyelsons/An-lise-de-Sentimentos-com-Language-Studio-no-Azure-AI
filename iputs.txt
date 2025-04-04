@@ -1,0 +1,5 @@
+[
+    "Eu adorei o novo recurso do aplicativo! Muito útil.",
+    "O atendimento foi péssimo e demorado.",
+    "O produto é ok, mas esperava mais pelo preço."
+]

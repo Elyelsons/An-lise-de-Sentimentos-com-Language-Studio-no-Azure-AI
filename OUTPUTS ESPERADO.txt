@@ -1,0 +1,21 @@
+Texto: Eu adorei o novo recurso do aplicativo! Muito útil.
+Sentimento geral: positive
+Confiança - Positivo: 0.98
+Confiança - Neutro: 0.01
+Confiança - Negativo: 0.01
+  ↳ Frase: 'Eu adorei o novo recurso do aplicativo!' | Sentimento: positive
+  ↳ Frase: 'Muito útil.' | Sentimento: positive
+
+Texto: O atendimento foi péssimo e demorado.
+Sentimento geral: negative
+Confiança - Positivo: 0.01
+Confiança - Neutro: 0.05
+Confiança - Negativo: 0.94
+  ↳ Frase: 'O atendimento foi péssimo e demorado.' | Sentimento: negative
+
+Texto: O produto é ok, mas esperava mais pelo preço.
+Sentimento geral: mixed
+Confiança - Positivo: 0.20
+Confiança - Neutro: 0.40
+Confiança - Negativo: 0.40
+  ↳ Frase: 'O produto é ok, mas esperava mais pelo preço.' | Sentimento: mixed
